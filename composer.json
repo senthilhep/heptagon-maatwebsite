@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "dev-master",
+    "heptagon-phpoffice/phpexcel": "dev-master",
     "illuminate/cache": "^5.0",
     "illuminate/config": "^5.0",
     "illuminate/filesystem": "^5.0",
